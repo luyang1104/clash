@@ -1,0 +1,111 @@
+# 猫站
+DOMAIN-SUFFIX,pterclub.com
+# 梓喵
+DOMAIN-SUFFIX,azusa.wiki
+# 铂金学院
+DOMAIN-SUFFIX,ptchina.org
+# 自由农场
+DOMAIN-SUFFIX,0ff.cc
+# 观众
+DOMAIN-SUFFIX,audiences.me
+DOMAIN,tracker.cinefiles.info
+# 馒头
+DOMAIN,kp.m-team.cc
+DOMAIN,xp.m-team.io
+# 幼儿园
+DOMAIN,daydream.dmhy.best
+# pt分享站
+DOMAIN-SUFFIX,itzmx.com
+# 海胆
+DOMAIN-SUFFIX,haidan.video
+# 白兔
+DOMAIN,club.hares.top
+# 红豆饭
+DOMAIN-SUFFIX,hdfans.org
+# 海豹
+DOMAIN-SUFFIX,greatposterwall.com
+# HDDolby
+DOMAIN-SUFFIX,hddolby.com
+# 1PTBA
+DOMAIN-SUFFIX,1ptba.com
+# 彩虹岛
+DOMAIN-SUFFIX,chdbits.co
+DOMAIN-SUFFIX,chdbits.xyz
+DOMAIN-SUFFIX,ptchdbits.co
+# 好大
+DOMAIN-SUFFIX,hdarea.club
+# 海带
+DOMAIN-SUFFIX,hd.ai
+# PTNIC
+DOMAIN-SUFFIX,ptnic.net
+# Oshen
+DOMAIN-SUFFIX,oshen.win
+#HD VIDEO
+DOMAIN-SUFFIX,hdvideo.one
+# IPT
+DOMAIN-SUFFIX,iptorrents.com
+# CarPT
+DOMAIN-SUFFIX,carpt.net
+# 骚包
+DOMAIN-SUFFIX,ptsbao.club
+# 备胎
+DOMAIN-SUFFIX,beitai.pt
+# 憨憨
+DOMAIN-SUFFIX,hhanclub.top
+DOMAIN-SUFFIX,hhan.club
+# 猪猪
+DOMAIN-SUFFIX,piggo.me
+# 阿童木
+DOMAIN-SUFFIX,hdatmos.club
+# 莫妮卡
+DOMAIN-SUFFIX,monikadesign.uk
+# 某站
+DOMAIN-SUFFIX,springsunday.net
+# 学校
+DOMAIN,pt.btschool.club
+# IHDbits
+DOMAIN-SUFFIX,ihdbits.me
+# 城市
+DOMAIN,hdcity.leniter.org
+# 月月
+DOMAIN-SUFFIX,keepfrds.com
+# 杏林
+DOMAIN-SUFFIX,xingtan.one
+# 家园
+DOMAIN-SUFFIX,hdhome.org
+# 明教
+DOMAIN-SUFFIX,hdpt.xyz
+# 空
+DOMAIN-SUFFIX,hdsky.me
+# 瓷器
+DOMAIN-SUFFIX,hdchina.org
+# 时光
+DOMAIN-SUFFIX,hdtime.org
+# 我堡
+DOMAIN-SUFFIX,ourbits.club
+# TTG
+DOMAIN-SUFFIX,totheglory.im
+# opencd
+DOMAIN-SUFFIX,open.cd
+#北洋园
+DOMAIN-SUFFIX,tjupt.org
+# 海豚
+DOMAIN-SUFFIX,dicmusic.club
+DOMAIN-SUFFIX,dicmusic.com
+# 兽
+DOMAIN-SUFFIX,hd4fans.org
+# 红叶
+DOMAIN-SUFFIX,leaves.red
+#ptp
+DOMAIN-SUFFIX,passthepopcorn.me
+#织梦
+DOMAIN-KEYWORD,zmpt,DIRECT
+#时间
+DOMAIN-KEYWORD,pttime,DIRECT
+#朱雀
+DOMAIN-SUFFIX,tracker.zhuque.in,DIRECT
+#kamept
+DOMAIN-KEYWORD,kamept,DIRECT
+#ultrahd
+DOMAIN-KEYWORD,ultrahd,DIRECT
+

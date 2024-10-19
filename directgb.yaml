@@ -1,64 +1,37 @@
-# 猫站
-DOMAIN,tracker.pterclub.com,DIRECT
-# 不可说
-DOMAIN,on.springsunday.net,DIRECT
-# 观众
-DOMAIN,t.audiences.me,DIREC
-DOMAIN,tracker.cinefiles.info,DIRECT
-# 馒头
-DOMAIN,tracker.m-team.io,DIRECT
-# 幼儿园
-DOMAIN,daydream.dmhy.best,DIRECT
-# 杜比
-DOMAIN,t.hddolby.com,DIRECT
-DOMAIN,t.orcinusorca.org,DIRECT
-# 彩虹岛
-DOMAIN,chdbits.xyz,DIRECT
-# 憨憨
-DOMAIN,tracker.hhan.club,DIRECT
-DOMAIN,hhanclub.top,DIRECT
-# 莫妮卡
-DOMAIN,daisuki.monikadesign.uk,DIRECT
-# 月月
-DOMAIN,tracker.keepfrds.com,DIRECT
-# 家园
-DOMAIN,t.hdhome.org,DIRECT
-# 空
-DOMAIN,tracker.hdsky.me,DIRECT
-# 套套哥
-DOMAIN,tracker.totheglory.im,DIRECT
-# 皇后
-DOMAIN,tracker.open.cd,DIRECT
-#北洋园
-DOMAIN,tracker-public.tjupt.org,DIRECT
-# 红叶
-DOMAIN,tracker.leaves.red,DIRECT
-DOMAIN,tracker2.leaves.red,DIRECT
-DOMAIN,tracker3.leaves.red,DIRECT
-# 朱雀
-DOMAIN,tracker.zhuque.in,DIRECT
-# 时间
-DOMAIN-KEYWORD,pttime,DIRECT
-# 时光
-DOMAIN-KEYWORD,hdtime,DIRECT
-# 阿童木
-DOMAIN-KEYWORD,hdatmos,DIRECT
-# kamept
-DOMAIN-KEYWORD,kamept,DIRECT
-# 梓喵
-DOMAIN-KEYWORD,azusa,DIRECT
-# 兽
-DOMAIN-KEYWORD,hd4fans,DIRECT
-# 我堡
-DOMAIN-KEYWORD,ourbits,DIRECT
-# ultrahd
-DOMAIN-KEYWORD,ultrahd,DIRECT
-# 海棠
-DOMAIN-KEYWORD,htpt,DIRECT
-#织 梦
-DOMAIN-KEYWORD,zmpt,DIRECT
-#CF优选
-SRC-IP-CIDR,172.67.0.0/15,DIRECT
-SRC-IP-CIDR,162.158.0.0/15,DIRECT
+payload:
+  - DOMAIN,tracker.pterclub.com,DIRECT
+  - DOMAIN,on.springsunday.net,DIRECT
+  - DOMAIN,t.audiences.me,DIREC
+  - DOMAIN,tracker.cinefiles.info,DIRECT
+  - DOMAIN,tracker.m-team.io,DIRECT
+  - DOMAIN,daydream.dmhy.best,DIRECT
+  - DOMAIN,t.hddolby.com,DIRECT
+  - DOMAIN,t.orcinusorca.org,DIRECT
+  - DOMAIN,chdbits.xyz,DIRECT
+  - DOMAIN,tracker.hhan.club,DIRECT
+  - DOMAIN,hhanclub.top,DIRECT
+  - DOMAIN,daisuki.monikadesign.uk,DIRECT
+  - DOMAIN,tracker.keepfrds.com,DIRECT
+  - DOMAIN,t.hdhome.org,DIRECT
+  - DOMAIN,tracker.hdsky.me,DIRECT
+  - DOMAIN,tracker.totheglory.im,DIRECT
+  - DOMAIN,tracker.open.cd,DIRECT
+  - DOMAIN,tracker-public.tjupt.org,DIRECT
+  - DOMAIN,tracker.leaves.red,DIRECT
+  - DOMAIN,tracker2.leaves.red,DIRECT
+  - DOMAIN,tracker3.leaves.red,DIRECT
+  - DOMAIN,tracker.zhuque.in,DIRECT
+  - DOMAIN-KEYWORD,pttime,DIRECT
+  - DOMAIN-KEYWORD,hdtime,DIRECT
+  - DOMAIN-KEYWORD,hdatmos,DIRECT
+  - DOMAIN-KEYWORD,kamept,DIRECT
+  - DOMAIN-KEYWORD,azusa,DIRECT
+  - DOMAIN-KEYWORD,hd4fans,DIRECT
+  - DOMAIN-KEYWORD,ourbits,DIRECT
+  - DOMAIN-KEYWORD,ultrahd,DIRECT
+  - DOMAIN-KEYWORD,htpt,DIRECT
+  - DOMAIN-KEYWORD,zmpt,DIRECT
+  - SRC-IP-CIDR,172.67.0.0/15,DIRECT
+  - SRC-IP-CIDR,162.158.0.0/15,DIRECT
  
  

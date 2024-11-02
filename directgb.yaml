@@ -8,6 +8,8 @@ payload:
   - DOMAIN,t.hddolby.com,DIRECT
   - DOMAIN,t.orcinusorca.org,DIRECT
   - DOMAIN,chdbits.xyz,DIRECT
+  - DOMAIN,tracker.ptchdbits.co,DIRECT
+  - DOMAIN,tracker.rainbowisland.co,DIRECT
   - DOMAIN,tracker.hhan.club,DIRECT
   - DOMAIN,hhanclub.top,DIRECT
   - DOMAIN,daisuki.monikadesign.uk,DIRECT

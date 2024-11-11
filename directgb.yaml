@@ -34,7 +34,6 @@ payload:
   - DOMAIN-KEYWORD,htpt,DIRECT
   - DOMAIN-KEYWORD,zmpt,DIRECT
   - DOMAIN-KEYWORD,sunnypt,DIRECT
-  - DOMAIN,emby.sda.moe,DIRECT
   - DOMAIN,tracker01.ilovelemonhd.me,DIRECT
   - SRC-IP-CIDR,172.67.0.0/15,DIRECT
   - SRC-IP-CIDR,162.158.0.0/15,DIRECT

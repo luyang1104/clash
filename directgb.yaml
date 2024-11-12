@@ -1,4 +1,5 @@
 payload:
+  #PT
   - DOMAIN,tracker.pterclub.com,DIRECT
   - DOMAIN,on.springsunday.net,DIRECT
   - DOMAIN,t.audiences.me,DIREC
@@ -35,6 +36,10 @@ payload:
   - DOMAIN-KEYWORD,zmpt,DIRECT
   - DOMAIN-KEYWORD,sunnypt,DIRECT
   - DOMAIN,tracker01.ilovelemonhd.me,DIRECT
+  #CF优选段
   - SRC-IP-CIDR,172.67.0.0/15,DIRECT
   - SRC-IP-CIDR,162.158.0.0/15,DIRECT
+  #emby服
+  - DOMAIN,emby.sda.moe,DIRECT
+  
  

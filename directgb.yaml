@@ -40,6 +40,6 @@ payload:
   - SRC-IP-CIDR,172.67.0.0/15,DIRECT
   - SRC-IP-CIDR,162.158.0.0/15,DIRECT
   #emby服
-  - DOMAIN,emby.sda.moe,DIRECT
+  - DOMAIN-SUFFIX,sda.moe,DIRECT
   
  

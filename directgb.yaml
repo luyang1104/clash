@@ -17,6 +17,7 @@ payload:
   - DOMAIN,tracker.keepfrds.com,DIRECT
   - DOMAIN,t.hdhome.org,DIRECT
   - DOMAIN,tracker.hdsky.me,DIRECT
+  - DOMAIN,t.ubits.club,DIRECT
   - DOMAIN,tracker.totheglory.im,DIRECT
   - DOMAIN,tracker.open.cd,DIRECT
   - DOMAIN,tracker-public.tjupt.org,DIRECT

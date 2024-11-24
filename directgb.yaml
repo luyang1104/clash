@@ -43,5 +43,5 @@ payload:
   #emby服
   - DOMAIN-SUFFIX,sda.moe,DIRECT
   #华为云
-  - SRC-IP-CIDR,166.108.0.0/15,DIRECT
+  - IP-CIDR,166.108.235.11,DIRECT
  

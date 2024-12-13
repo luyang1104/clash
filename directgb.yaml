@@ -36,6 +36,7 @@ payload:
   - DOMAIN-KEYWORD,htpt,DIRECT
   - DOMAIN-KEYWORD,zmpt,DIRECT
   - DOMAIN-KEYWORD,sunnypt,DIRECT
+  - DOMAIN-KEYWORD,spaceship,DIRECT
   - DOMAIN,tracker01.ilovelemonhd.me,DIRECT
   #CF优选段
   - SRC-IP-CIDR,172.67.0.0/15,DIRECT

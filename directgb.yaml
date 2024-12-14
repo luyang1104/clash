@@ -45,6 +45,8 @@ payload:
   - DOMAIN-SUFFIX,sda.moe,DIRECT
   #华为云
   - IP-CIDR,166.108.235.11/32,DIRECT 
+  #甲骨云
+  - IP-CIDR,192.9.149.221/32,DIRECT 
   #测速
   - DOMAIN-KEYWORD,speedtest.net,DIRECT
  

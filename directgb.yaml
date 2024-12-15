@@ -51,6 +51,4 @@ payload:
   - DOMAIN-KEYWORD,lyhome.top,DIRECT
   - DOMAIN-KEYWORD,lyho.top,DIRECT
   - DOMAIN-KEYWORD,yyho.top,DIRECT
-  #测速
-  - DOMAIN-KEYWORD,speedtest.net,DIRECT
  

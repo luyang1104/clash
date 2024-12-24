@@ -43,12 +43,5 @@ payload:
   - SRC-IP-CIDR,162.158.0.0/15,DIRECT
   #emby服
   - DOMAIN-SUFFIX,sda.moe,DIRECT
-  #华为云
-  - IP-CIDR,166.108.235.11/32,DIRECT 
-  #甲骨云
-  - IP-CIDR,192.9.149.221/32,DIRECT
-  #自用域名
-  - DOMAIN-KEYWORD,lyhome.top,DIRECT
-  - DOMAIN-KEYWORD,lyho.top,DIRECT
-  - DOMAIN-KEYWORD,yyho.top,DIRECT
+
  

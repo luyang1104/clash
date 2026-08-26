@@ -1,0 +1,46 @@
+payload:
+  # ==================== 1. 域名关键词 ====================
+  # 匹配所有包含 tracker 关键字的域名（如 tracker.hdsky.me, tracker.m-team.io 等）
+  - DOMAIN-KEYWORD,tracker
+
+  # ==================== 2. 域名后缀 ====================
+  # 针对不带 tracker 前缀或特殊的 PT 站点/主域名
+
+  # TTG
+  - DOMAIN-SUFFIX,totheglory.im
+
+  # OurBits
+  - DOMAIN-SUFFIX,ourbits.club
+
+  # SpringSunday
+  - DOMAIN-SUFFIX,springsunday.net
+
+  # HDHome
+  - DOMAIN-SUFFIX,hdhome.org
+
+  # ZMPT
+  - DOMAIN-SUFFIX,zmpt.cc
+
+  # Audiences
+  - DOMAIN-SUFFIX,audiences.me
+
+  # CHDBits
+  - DOMAIN-SUFFIX,chdbits.xyz
+
+  # DayDream / DMHY
+  - DOMAIN-SUFFIX,dmhy.best
+
+  # HDDolby
+  - DOMAIN-SUFFIX,hddolby.com
+
+  # OrcinusOrca
+  - DOMAIN-SUFFIX,orcinusorca.org
+
+  # UBits
+  - DOMAIN-SUFFIX,ubits.club
+
+  # SunnyPT
+  - DOMAIN-SUFFIX,sunnytk.top
+
+  # ZhuQue
+  - DOMAIN-SUFFIX,zhuque.in

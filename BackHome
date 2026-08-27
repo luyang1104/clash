@@ -1,0 +1,7 @@
+rules:
+  - IP-CIDR,192.168.8.0/24,BackHome,no-resolve
+  - IP-CIDR,10.0.0.0/8,BackHome,no-resolve
+  - IP-CIDR,172.16.0.0/12,BackHome,no-resolve
+  - IP-CIDR,100.64.0.0/10,BackHome,no-resolve
+  - IP-CIDR,fc00::/7,BackHome,no-resolve
+  - DOMAIN-SUFFIX,lan,BackHome

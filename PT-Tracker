@@ -1,7 +1,7 @@
 payload:
-  - DOMAIN-SUFFIX,ourbits.club
-  - DOMAIN-SUFFIX,springsunday.net
-  - DOMAIN-SUFFIX,zmpt.cc
-  - DOMAIN-SUFFIX,chdbits.xyz
-  - DOMAIN-SUFFIX,t.audiences.me
+  - DOMAIN,ourbits.club
+  - DOMAIN,springsunday.net
+  - DOMAIN,zmpt.cc
+  - DOMAIN,chdbits.xyz
+  - DOMAIN,t.audiences.me
   - DOMAIN-KEYWORD,tracker

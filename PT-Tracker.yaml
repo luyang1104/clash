@@ -21,6 +21,15 @@ payload:
   - DOMAIN,tracker-public.tjupt.org
   - DOMAIN,tracker.zhuque.in
   - DOMAIN,sunnytk.top
+  # QingWa
+  - DOMAIN,tracker.qingwapt.org
+  - DOMAIN,tracker.qingwapt.com
+  - DOMAIN,tracker.qingwa.pro
+  # HHAN
+  - DOMAIN,tracker.hhanclub.net
+  - DOMAIN,tracker.tracker.hhanclub.net
+  # SunnyPT
+  - DOMAIN,tracker.sunnypt.top
   # These trackers share the website hostname, so direct takes priority.
   - DOMAIN,ourbits.club
   - DOMAIN,zmpt.cc

@@ -20,7 +20,7 @@ payload:
   - DOMAIN,tracker.open.cd
   - DOMAIN,tracker-public.tjupt.org
   - DOMAIN,tracker.zhuque.in
-
+  - DOMAIN,sunnytk.top
   # These trackers share the website hostname, so direct takes priority.
   - DOMAIN,ourbits.club
   - DOMAIN,zmpt.cc

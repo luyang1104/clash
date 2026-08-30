@@ -21,7 +21,7 @@ payload:
   - DOMAIN,tracker-public.tjupt.org
   - DOMAIN,tracker.zhuque.in
   - DOMAIN,sunnytk.top
-  # QingWa
+  # QingWa: qingwa.pro is an alternate announce host of the same site (same passkey)
   - DOMAIN,tracker.qingwapt.org
   - DOMAIN,tracker.qingwapt.com
   - DOMAIN,tracker.qingwa.pro

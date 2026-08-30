@@ -1,23 +1,21 @@
 payload:
-  # OurBits
-  - DOMAIN-SUFFIX,ourbits.club
+  # PT site domains — aligned with browser bookmarks (PT站点 folder)
   # HDSky
   - DOMAIN-SUFFIX,hdsky.me
+  # OurBits
+  - DOMAIN-SUFFIX,ourbits.club
+  # SpringSunday (SSD)
+  - DOMAIN-SUFFIX,springsunday.net
   # Audiences
   - DOMAIN-SUFFIX,audiences.me
-  # SpringSunday
-  - DOMAIN-SUFFIX,springsunday.net
-  # CHDBits
-  - DOMAIN-SUFFIX,ptchdbits.co
-  - DOMAIN-SUFFIX,chdbits.xyz
   # HDDolby
   - DOMAIN-SUFFIX,hddolby.com
+  # CHDBits
+  - DOMAIN-SUFFIX,ptchdbits.co
   # TTG
   - DOMAIN-SUFFIX,totheglory.im
   # KeepFrds
   - DOMAIN-SUFFIX,keepfrds.com
-  # PterClub
-  - DOMAIN-SUFFIX,pterclub.net
   # HDHome
   - DOMAIN-SUFFIX,hdhome.org
   # U2 / DMHY
@@ -46,20 +44,13 @@ payload:
   - DOMAIN-SUFFIX,jpopsuki.eu
   # UBits
   - DOMAIN-SUFFIX,ubits.club
-  # SunnyPT
-  - DOMAIN-SUFFIX,sunnypt.top
-  # HHAN
-  - DOMAIN-SUFFIX,hhanclub.net
-  - DOMAIN-SUFFIX,hhan.club
-  # QingWa
-  - DOMAIN-SUFFIX,qingwapt.com
-  - DOMAIN-SUFFIX,qingwapt.org
-  - DOMAIN-SUFFIX,qingwa.pro
   # M-Team
   - DOMAIN-SUFFIX,m-team.cc
-  - DOMAIN-SUFFIX,m-team.io
-  # Other PT sites used by the tracker list
-  - DOMAIN-SUFFIX,cinefiles.info
-  - DOMAIN-SUFFIX,dmhy.best
-  - DOMAIN-SUFFIX,orcinusorca.org
-  - DOMAIN-SUFFIX,rainbowisland.co
+  # SunnyPT
+  - DOMAIN-SUFFIX,sunnypt.top
+  # QingWa
+  - DOMAIN-SUFFIX,qingwapt.com
+  # PTerClub
+  - DOMAIN-SUFFIX,pterclub.net
+  # HHCLUB
+  - DOMAIN-SUFFIX,hhanclub.net

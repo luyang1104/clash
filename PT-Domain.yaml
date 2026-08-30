@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,springsunday.net
   # CHDBits
   - DOMAIN-SUFFIX,ptchdbits.co
+  - DOMAIN-SUFFIX,chdbits.xyz
   # HDDolby
   - DOMAIN-SUFFIX,hddolby.com
   # TTG
@@ -55,3 +56,12 @@ payload:
   - DOMAIN-SUFFIX,qingwapt.com
   # M-Team
   - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN-SUFFIX,m-team.io
+  # Other PT sites used by the tracker list
+  - DOMAIN-SUFFIX,cinefiles.info
+  - DOMAIN-SUFFIX,dmhy.best
+  - DOMAIN-SUFFIX,orcinusorca.org
+  - DOMAIN-SUFFIX,rainbowisland.co
+  - DOMAIN-SUFFIX,hhanclub.top
+  - DOMAIN-SUFFIX,leaves.red
+  - DOMAIN-SUFFIX,ilovelemonhd.me

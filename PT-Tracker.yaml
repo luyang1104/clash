@@ -1,7 +1,32 @@
 payload:
+  # Dedicated tracker hosts. Keep this provider before PT-Domain.
+  - DOMAIN,tracker.pterclub.com
+  - DOMAIN,on.springsunday.net
+  - DOMAIN,t.audiences.me
+  - DOMAIN,tracker.cinefiles.info
+  - DOMAIN,tracker.m-team.io
+  - DOMAIN,daydream.dmhy.best
+  - DOMAIN,t.hddolby.com
+  - DOMAIN,t.orcinusorca.org
+  - DOMAIN,tracker.ptchdbits.co
+  - DOMAIN,tracker.rainbowisland.co
+  - DOMAIN,tracker.hhan.club
+  - DOMAIN,hhanclub.top
+  - DOMAIN,daisuki.monikadesign.uk
+  - DOMAIN,tracker.keepfrds.com
+  - DOMAIN,t.hdhome.org
+  - DOMAIN,tracker.hdsky.me
+  - DOMAIN,t.ubits.club
+  - DOMAIN,tracker.totheglory.im
+  - DOMAIN,tracker.open.cd
+  - DOMAIN,tracker-public.tjupt.org
+  - DOMAIN,tracker.leaves.red
+  - DOMAIN,tracker2.leaves.red
+  - DOMAIN,tracker3.leaves.red
+  - DOMAIN,tracker.zhuque.in
+  - DOMAIN,tracker01.ilovelemonhd.me
+
+  # These trackers share the website hostname, so direct takes priority.
   - DOMAIN,ourbits.club
-  - DOMAIN,springsunday.net
   - DOMAIN,zmpt.cc
   - DOMAIN,chdbits.xyz
-  - DOMAIN,t.audiences.me
-  - DOMAIN-KEYWORD,tracker

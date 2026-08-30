@@ -17,7 +17,6 @@ payload:
   # KeepFrds
   - DOMAIN-SUFFIX,keepfrds.com
   # PterClub
-  - DOMAIN-SUFFIX,pterclub.com
   - DOMAIN-SUFFIX,pterclub.net
   # HDHome
   - DOMAIN-SUFFIX,hdhome.org
@@ -54,6 +53,7 @@ payload:
   - DOMAIN-SUFFIX,hhan.club
   # QingWa
   - DOMAIN-SUFFIX,qingwapt.com
+  - DOMAIN-SUFFIX,qingwapt.org
   # M-Team
   - DOMAIN-SUFFIX,m-team.cc
   - DOMAIN-SUFFIX,m-team.io
@@ -62,6 +62,3 @@ payload:
   - DOMAIN-SUFFIX,dmhy.best
   - DOMAIN-SUFFIX,orcinusorca.org
   - DOMAIN-SUFFIX,rainbowisland.co
-  - DOMAIN-SUFFIX,hhanclub.top
-  - DOMAIN-SUFFIX,leaves.red
-  - DOMAIN-SUFFIX,ilovelemonhd.me

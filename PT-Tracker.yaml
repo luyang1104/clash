@@ -1,6 +1,6 @@
 payload:
   # Dedicated tracker hosts. Keep this provider before PT-Domain.
-  - DOMAIN,tracker.pterclub.com
+  - DOMAIN,tracker.pterclub.net
   - DOMAIN,on.springsunday.net
   - DOMAIN,t.audiences.me
   - DOMAIN,tracker.cinefiles.info
@@ -11,7 +11,6 @@ payload:
   - DOMAIN,tracker.ptchdbits.co
   - DOMAIN,tracker.rainbowisland.co
   - DOMAIN,tracker.hhan.club
-  - DOMAIN,hhanclub.top
   - DOMAIN,daisuki.monikadesign.uk
   - DOMAIN,tracker.keepfrds.com
   - DOMAIN,t.hdhome.org
@@ -20,11 +19,7 @@ payload:
   - DOMAIN,tracker.totheglory.im
   - DOMAIN,tracker.open.cd
   - DOMAIN,tracker-public.tjupt.org
-  - DOMAIN,tracker.leaves.red
-  - DOMAIN,tracker2.leaves.red
-  - DOMAIN,tracker3.leaves.red
   - DOMAIN,tracker.zhuque.in
-  - DOMAIN,tracker01.ilovelemonhd.me
 
   # These trackers share the website hostname, so direct takes priority.
   - DOMAIN,ourbits.club

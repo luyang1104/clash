@@ -27,7 +27,7 @@ payload:
   - DOMAIN,tracker.qingwa.pro
   # HHAN
   - DOMAIN,tracker.hhanclub.net
-  - DOMAIN,tracker.tracker.hhanclub.net
+  - DOMAIN,tracker.hhan.club
   # SunnyPT
   - DOMAIN,tracker.sunnypt.top
   # These trackers share the website hostname, so direct takes priority.
